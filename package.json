@@ -1,0 +1,15 @@
+{
+
+	"name": "getHOBase",
+	"version": "0.0.1",
+	"description": "",
+
+	"dependencies": {
+
+		"mkdirp": "*",
+		"request": "*"
+
+	},
+	"engine": "node 0.10.x"
+
+}
